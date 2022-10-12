@@ -1,0 +1,15 @@
+.img {
+    height: 300px;
+    width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+*{
+    text-align: center; 
+}
+
+li{
+    list-style-type:none;
+}
